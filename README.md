@@ -10,45 +10,34 @@
 ---
 
 ## 🚀 Sobre mí
-Cloud / DevOps Engineer con experiencia en operación de sistemas y gestión de entornos **Azure**.  
-Me enfoco en **automatización**, **IaC con Terraform**, y **mejora de fiabilidad/observabilidad** en entornos Linux.
+Cloud Engineer con experiencia en operación de sistemas y gestión de entornos **Azure**.  
+**Despligue** y **gestión** de infraestructura en Azure. 
+Automatización del aprovisionamiento, configuración y gestión de la infraestructura de TI mediante **Terraform** (IaC, variables, módulos, buenas prácticas)
+Automatizo tareas y operaciones en **Linux**
 
 📍 Zaragoza, España · ✉️ raulmadronanavarro@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-madrona-navarro-5a714917a/)
 
 ---
 
-## 🧩 Qué hago (en la práctica)
-- Despliego infraestructura en **Azure con Terraform** (IaC, variables, módulos, buenas prácticas)
-- Automatizo tareas y operaciones en **Linux** (Bash, troubleshooting, hardening básico)
-- Trabajo con **monitorización y alertas** (dashboards y supervisión) y cultura “run & improve”
-
----
-
 ## 🛠️ Stack
-**Cloud:** Azure (VNet, IAM/RBAC, compute, storage)  
-**IaC:** Terraform  
-**Ops:** Linux, Bash, monitoring/dashboards  
-**CI/CD:** Git / GitLab CI/CD  
-**Data (base):** SQL, APIs REST, Grafana
+**Cloud (Azure)**: Networking (VNet/Peering), Entra ID (RBAC/PIM), Compute (AKS/AppService), Storage, BCDR (Backup/ASR) y Governance (Policy/Cost)
+**IaC**: Terraform (Azure Provider), Bicep
+**Ops**: Linux (RHEL/Ubuntu), Bash, Azure Monitor & Log Analytics
+**CI/CD**: Git, GitLab CI/CD (Pipelines de Infra/App)
+**Data**: SQL, APIs REST, Grafana
 
 ---
 
 ## 🎓 Certificaciones
 - ✅ AZ-104: Azure Administrator Associate
+- ✅ AZ-305: Azure Solutions Architect Expert
 - ✅ Terraform Associate
-- 🛠️ En progreso: AZ-305 (Azure Solutions Architect Expert)
 
 ---
 
 ## 🧪 Labs y repos destacados
-> (Aquí es donde vamos a enlazar tus laboratorios para demostrar experiencia real)
 
-- 🔹 **Azure Terraform Labs** — despliegues IaC en Azure  
-  👉 `link aquí`
-- 🔹 **Linux Automation Scripts** — scripts Bash para operaciones  
-  👉 `link aquí`
-- 🔹 **Monitoring & Observability** — ejemplos de dashboards y alertas  
-  👉 `link aquí`
+
 
 ---
 
