@@ -13,18 +13,18 @@
 Cloud Engineer con experiencia en operación de sistemas y gestión de entornos **Azure**.  
 **Despligue** y **gestión** de infraestructura en Azure.
 Automatización del aprovisionamiento, configuración y gestión de la infraestructura de TI mediante **Terraform** (IaC, variables, módulos, buenas prácticas).    
-Automatizo tareas y operaciones en **Linux**
+Automatizo tareas y operaciones en **Linux**.
 
 📍 Zaragoza, España · ✉️ raulmadronanavarro@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-madrona-navarro-5a714917a/)
 
 ---
 
 ## 🛠️ Stack
-**Cloud (Azure)**: Networking (VNet/Peering), Entra ID (RBAC/PIM), Compute (AKS/AppService), Storage, BCDR (Backup/ASR) y Governance (Policy/Cost)
-**IaC**: Terraform (Azure Provider), Bicep
-**Ops**: Linux (RHEL/Ubuntu), Bash, Azure Monitor & Log Analytics
-**CI/CD**: Git, GitLab CI/CD (Pipelines de Infra/App)
-**Data**: SQL, APIs REST, Grafana
+**Cloud (Azure)**: Networking (VNet/Peering), Entra ID (RBAC/PIM), Compute (AKS/AppService), Storage, BCDR (Backup/ASR) y Governance (Policy/Cost)     
+**IaC**: Terraform (Azure Provider), Bicep    
+**Ops**: Linux (RHEL/Ubuntu), Bash, Azure Monitor & Log Analytics    
+**CI/CD**: Git, GitLab CI/CD (Pipelines de Infra/App)   
+**Data**: SQL, APIs REST, Grafana   
 
 ---
 
