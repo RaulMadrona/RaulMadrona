@@ -11,8 +11,8 @@
 
 ## 🚀 Sobre mí
 Cloud Engineer con experiencia en operación de sistemas y gestión de entornos **Azure**.  
-**Despligue** y **gestión** de infraestructura en Azure. 
-Automatización del aprovisionamiento, configuración y gestión de la infraestructura de TI mediante **Terraform** (IaC, variables, módulos, buenas prácticas)
+**Despligue** y **gestión** de infraestructura en Azure.
+Automatización del aprovisionamiento, configuración y gestión de la infraestructura de TI mediante **Terraform** (IaC, variables, módulos, buenas prácticas).    
 Automatizo tareas y operaciones en **Linux**
 
 📍 Zaragoza, España · ✉️ raulmadronanavarro@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-madrona-navarro-5a714917a/)
